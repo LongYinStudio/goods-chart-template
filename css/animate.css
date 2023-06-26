@@ -1,0 +1,39 @@
+.sec {
+    --up: 0px;
+}
+
+@keyframes row {
+    0% {}
+
+    100% {
+        transform: translateY(var(--up));
+    }
+}
+
+.up {
+    animation: row 6s linear infinite;
+}
+
+.up:hover {
+    animation-play-state: paused;
+}
+
+.rank {
+    --up1: 0px;
+}
+
+@keyframes row1 {
+    0% {}
+
+    100% {
+        transform: translateY(var(--up1));
+    }
+}
+
+.up1 {
+    animation: row1 6s linear infinite;
+}
+
+.up1:hover {
+    animation-play-state: paused;
+}

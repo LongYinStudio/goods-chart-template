@@ -1,0 +1,1063 @@
+[
+  {
+    "name": "21",
+    "data": [
+      {
+        "name": "总  计",
+        "value": {
+          "currentYear": 57086659,
+          "growth": 22.67221859169424
+        }
+      },
+      {
+        "name": "食品及活动物",
+        "value": {
+          "currentYear": 213013,
+          "growth": 14.500956804059427,
+          "details": [
+            {
+              "name": "活动物",
+              "value": {
+                "currentYear": 0,
+                "growth": -100
+              }
+            },
+            {
+              "name": "肉及肉制品",
+              "value": {
+                "currentYear": 10879,
+                "growth": 0.1196392416712655
+              }
+            },
+            {
+              "name": "乳品及蛋品",
+              "value": {
+                "currentYear": 125,
+                "growth": 1288.888888888889
+              }
+            },
+            {
+              "name": "鱼、甲壳及软体类动物及其制品",
+              "value": {
+                "currentYear": 7882,
+                "growth": 96.06965174129354
+              }
+            },
+            {
+              "name": "谷物及其制品",
+              "value": {
+                "currentYear": 7027,
+                "growth": -7.806350039359744
+              }
+            },
+            {
+              "name": "蔬菜及水果",
+              "value": {
+                "currentYear": 62849,
+                "growth": 7.834188356810734
+              }
+            },
+            {
+              "name": "糖、糖制品及蜂蜜",
+              "value": {
+                "currentYear": 2593,
+                "growth": -36.940661478599225
+              }
+            },
+            {
+              "name": "咖啡、茶、可可、调味料及其制品",
+              "value": {
+                "currentYear": 12352,
+                "growth": -12.922100810715541
+              }
+            },
+            {
+              "name": "饲料（不包括未碾磨谷物）",
+              "value": {
+                "currentYear": 11435,
+                "growth": 10.05774783445621
+              }
+            },
+            {
+              "name": "杂项食品",
+              "value": {
+                "currentYear": 97870,
+                "growth": 28.31539338953497
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "饮料及烟类",
+        "value": {
+          "currentYear": 86122,
+          "growth": -15.449788433029976,
+          "details": [
+            {
+              "name": "饮料",
+              "value": {
+                "currentYear": 52289,
+                "growth": -30.213407716844397
+              }
+            },
+            {
+              "name": "烟草及其制品",
+              "value": {
+                "currentYear": 33833,
+                "growth": 25.623793257091943
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "非食用原料（燃料除外）",
+        "value": {
+          "currentYear": 172699,
+          "growth": 22.114351170946932,
+          "details": [
+            {
+              "name": "生皮及生毛皮",
+              "value": {
+                "currentYear": "-",
+                "growth": "-"
+              }
+            },
+            {
+              "name": "油籽及含油果实",
+              "value": {
+                "currentYear": 961,
+                "growth": 14.814814814814813
+              }
+            },
+            {
+              "name": "生橡胶（包括合成橡胶及再生橡胶）",
+              "value": {
+                "currentYear": 7161,
+                "growth": 118.58974358974356
+              }
+            },
+            {
+              "name": "软木及木材",
+              "value": {
+                "currentYear": 3728,
+                "growth": 180.09015777610819
+              }
+            },
+            {
+              "name": "纸浆及废纸",
+              "value": {
+                "currentYear": 115,
+                "growth": 11400
+              }
+            },
+            {
+              "name": "纺织纤维及其废料",
+              "value": {
+                "currentYear": 60270,
+                "growth": 1.990049751243772
+              }
+            },
+            {
+              "name": "天然肥料及矿物(煤、石油及宝石除外",
+              "value": {
+                "currentYear": 11672,
+                "growth": 130.85443037974684
+              }
+            },
+            {
+              "name": "金属矿砂及金属废料",
+              "value": {
+                "currentYear": 7819,
+                "growth": 76.50112866817156
+              }
+            },
+            {
+              "name": "其他动、植物原料",
+              "value": {
+                "currentYear": 80972,
+                "growth": 20.148976896710337
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "矿物燃料、润滑油及有关原料",
+        "value": {
+          "currentYear": 298,
+          "growth": -88.54286812764322,
+          "details": [
+            {
+              "name": "煤、焦炭及煤砖",
+              "value": {
+                "currentYear": 30,
+                "growth": -98.67957746478874
+              }
+            },
+            {
+              "name": "石油、石油产品及有关原料",
+              "value": {
+                "currentYear": 243,
+                "growth": -4.330708661417326
+              }
+            },
+            {
+              "name": "天然气及人造气",
+              "value": {
+                "currentYear": 25,
+                "growth": -66.66666666666667
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "动植物油、脂及蜡",
+        "value": {
+          "currentYear": 208968,
+          "growth": 155.76852463831978,
+          "details": [
+            {
+              "name": "动物油、脂",
+              "value": {
+                "currentYear": 53444,
+                "growth": 85.13873973741643
+              }
+            },
+            {
+              "name": "植物油、脂",
+              "value": {
+                "currentYear": 159,
+                "growth": -1.2422360248447228
+              }
+            },
+            {
+              "name": "已加工的动植物油、脂及动植物蜡",
+              "value": {
+                "currentYear": 155365,
+                "growth": 194.9557656528838
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "化学成品及有关产品",
+        "value": {
+          "currentYear": 3309878,
+          "growth": 55.079170600403415,
+          "details": [
+            {
+              "name": "有机化学品",
+              "value": {
+                "currentYear": 1110652,
+                "growth": 85.13119096156699
+              }
+            },
+            {
+              "name": "无机化学品",
+              "value": {
+                "currentYear": 617598,
+                "growth": 38.586440655146184
+              }
+            },
+            {
+              "name": "染料、鞣料及着色料",
+              "value": {
+                "currentYear": 443305,
+                "growth": 31.157653686160103
+              }
+            },
+            {
+              "name": "医药品",
+              "value": {
+                "currentYear": 178559,
+                "growth": 4.484013669132114
+              }
+            },
+            {
+              "name": "精油、香料及盥洗、光洁制品",
+              "value": {
+                "currentYear": 42921,
+                "growth": 63.13568985176738
+              }
+            },
+            {
+              "name": "制成肥料",
+              "value": {
+                "currentYear": 313777,
+                "growth": 47.250235814745814
+              }
+            },
+            {
+              "name": "初级形状的塑料",
+              "value": {
+                "currentYear": 205316,
+                "growth": 102.48325920373969
+              }
+            },
+            {
+              "name": "非初级形状的塑料",
+              "value": {
+                "currentYear": 160002,
+                "growth": 129.96061973612348
+              }
+            },
+            {
+              "name": "其他化学原料及产品",
+              "value": {
+                "currentYear": 237749,
+                "growth": 40.282276860259984
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "按原料分类的制成品",
+        "value": {
+          "currentYear": 3401511,
+          "growth": 80.20314706839062,
+          "details": [
+            {
+              "name": "皮革、皮革制品及已鞣毛皮",
+              "value": {
+                "currentYear": 15946,
+                "growth": 227.5677896466721
+              }
+            },
+            {
+              "name": "橡胶制品",
+              "value": {
+                "currentYear": 153820,
+                "growth": 35.90980579264522
+              }
+            },
+            {
+              "name": "软木及木制品（家具除外）",
+              "value": {
+                "currentYear": 44420,
+                "growth": 210.54250559284117
+              }
+            },
+            {
+              "name": "纸及纸板; 纸浆、纸及纸板制品",
+              "value": {
+                "currentYear": 165473,
+                "growth": 39.29055447528136
+              }
+            },
+            {
+              "name": "纺纱、织物、制成品及有关产品",
+              "value": {
+                "currentYear": 716839,
+                "growth": 21.86082645976839
+              }
+            },
+            {
+              "name": "非金属矿物制品",
+              "value": {
+                "currentYear": 549040,
+                "growth": 167.12595360423478
+              }
+            },
+            {
+              "name": "钢铁",
+              "value": {
+                "currentYear": 370389,
+                "growth": 109.8699606198827
+              }
+            },
+            {
+              "name": "有色金属",
+              "value": {
+                "currentYear": 168248,
+                "growth": 38.74750540152727
+              }
+            },
+            {
+              "name": "金属制品",
+              "value": {
+                "currentYear": 1217336,
+                "growth": 123.39596603556835
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "机械及运输设备",
+        "value": {
+          "currentYear": 43227810,
+          "growth": 12.012737397799068,
+          "details": [
+            {
+              "name": "动力机械及设备",
+              "value": {
+                "currentYear": 524410,
+                "growth": 44.895060841502634
+              }
+            },
+            {
+              "name": "特种工业专用机械",
+              "value": {
+                "currentYear": 517309,
+                "growth": 15.706821506376855
+              }
+            },
+            {
+              "name": "金工机械",
+              "value": {
+                "currentYear": 81387,
+                "growth": 22.528341086671787
+              }
+            },
+            {
+              "name": "通用工业机械设备及零件",
+              "value": {
+                "currentYear": 1070133,
+                "growth": 46.174860775504676
+              }
+            },
+            {
+              "name": "办公用机械及自动数据处理设备",
+              "value": {
+                "currentYear": 22019447,
+                "growth": 8.795217356761231
+              }
+            },
+            {
+              "name": "电信及声音的录制及重放装置设备",
+              "value": {
+                "currentYear": 4907664,
+                "growth": 26.035025651732745
+              }
+            },
+            {
+              "name": "电力机械、器具及其电气零件",
+              "value": {
+                "currentYear": 12669401,
+                "growth": 8.813989107608379
+              }
+            },
+            {
+              "name": "陆路车辆（包括气垫式）",
+              "value": {
+                "currentYear": 1294978,
+                "growth": 19.672009950965986
+              }
+            },
+            {
+              "name": "其他运输设备",
+              "value": {
+                "currentYear": 143081,
+                "growth": 13.712478243938108
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "杂项制品",
+        "value": {
+          "currentYear": 6189444,
+          "growth": 87.22819601376841,
+          "details": [
+            {
+              "name": "活动房屋;卫生、水道、供热及照明装",
+              "value": {
+                "currentYear": 790678,
+                "growth": 83.75510412769091
+              }
+            },
+            {
+              "name": "家具及其零件；褥垫及类似填充制品",
+              "value": {
+                "currentYear": 491149,
+                "growth": 156.43316225571843
+              }
+            },
+            {
+              "name": "旅行用品、手提包及类似品",
+              "value": {
+                "currentYear": 242958,
+                "growth": 192.73458961877682
+              }
+            },
+            {
+              "name": "服装及衣着附件",
+              "value": {
+                "currentYear": 1116386,
+                "growth": 225.14234621511972
+              }
+            },
+            {
+              "name": "鞋靴",
+              "value": {
+                "currentYear": 670275,
+                "growth": 107.47565482786587
+              }
+            },
+            {
+              "name": "专业、科学及控制用仪器和装置",
+              "value": {
+                "currentYear": 1150896,
+                "growth": 20.60245900350941
+              }
+            },
+            {
+              "name": "摄影器材、光学物品及钟表",
+              "value": {
+                "currentYear": 113382,
+                "growth": -25.64627188668109
+              }
+            },
+            {
+              "name": "杂项制品",
+              "value": {
+                "currentYear": 1613719,
+                "growth": 94.93644738336204
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "未分类的商品",
+        "value": {
+          "currentYear": 276916,
+          "growth": 169.64370916385093
+        }
+      }
+    ]
+  },
+  {
+    "name": "22",
+    "data": [
+      {
+        "name": "总  计",
+        "value": {
+          "currentYear": 62151778,
+          "growth": 9.234979460017477
+        }
+      },
+      {
+        "name": "食品及活动物",
+        "value": {
+          "currentYear": 405199,
+          "growth": 90.22266246661002,
+          "details": [
+            {
+              "name": "肉及肉制品",
+              "value": {
+                "currentYear": 16700,
+                "growth": 53.50675613567424
+              }
+            },
+            {
+              "name": "乳品及蛋品",
+              "value": {
+                "currentYear": 124,
+                "growth": -0.8000000000000007
+              }
+            },
+            {
+              "name": "鱼、甲壳及软体类动物及其制品",
+              "value": {
+                "currentYear": 9020,
+                "growth": 14.43795990865262
+              }
+            },
+            {
+              "name": "谷物及其制品",
+              "value": {
+                "currentYear": 9691,
+                "growth": 37.91091504198094
+              }
+            },
+            {
+              "name": "蔬菜及水果",
+              "value": {
+                "currentYear": 227809,
+                "growth": 262.47036547916434
+              }
+            },
+            {
+              "name": "糖、糖制品及蜂蜜",
+              "value": {
+                "currentYear": 6076,
+                "growth": 134.32317778634788
+              }
+            },
+            {
+              "name": "咖啡、茶、可可、调味料及其制品",
+              "value": {
+                "currentYear": 17153,
+                "growth": 38.86819948186528
+              }
+            },
+            {
+              "name": "饲料（不包括未碾磨谷物）",
+              "value": {
+                "currentYear": 10138,
+                "growth": -11.342369916921735
+              }
+            },
+            {
+              "name": "杂项食品",
+              "value": {
+                "currentYear": 108486,
+                "growth": 10.847041994482476
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "饮料及烟类",
+        "value": {
+          "currentYear": 90137,
+          "growth": 4.661991128863696,
+          "details": [
+            {
+              "name": "饮料",
+              "value": {
+                "currentYear": 51607,
+                "growth": -1.304289621144028
+              }
+            },
+            {
+              "name": "烟草及其制品",
+              "value": {
+                "currentYear": 38530,
+                "growth": 13.882895397984218
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "非食用原料（燃料除外）",
+        "value": {
+          "currentYear": 159828,
+          "growth": -7.451243804141383,
+          "details": [
+            {
+              "name": "生皮及生毛皮",
+              "value": {
+                "currentYear": 382,
+                "growth": "-"
+              }
+            },
+            {
+              "name": "油籽及含油果实",
+              "value": {
+                "currentYear": 3030,
+                "growth": 215.29656607700312
+              }
+            },
+            {
+              "name": "生橡胶（包括合成橡胶及再生橡胶）",
+              "value": {
+                "currentYear": 9006,
+                "growth": 25.76455802262254
+              }
+            },
+            {
+              "name": "软木及木材",
+              "value": {
+                "currentYear": 3349,
+                "growth": -10.16630901287554
+              }
+            },
+            {
+              "name": "纸浆及废纸",
+              "value": {
+                "currentYear": 169,
+                "growth": 46.95652173913043
+              }
+            },
+            {
+              "name": "纺织纤维及其废料",
+              "value": {
+                "currentYear": 44749,
+                "growth": -25.748751389649392
+              }
+            },
+            {
+              "name": "天然肥料及矿物(煤、石油及宝石除外",
+              "value": {
+                "currentYear": 13324,
+                "growth": 14.153529814941734
+              }
+            },
+            {
+              "name": "金属矿砂及金属废料",
+              "value": {
+                "currentYear": 7068,
+                "growth": -9.604808799079168
+              }
+            },
+            {
+              "name": "其他动、植物原料",
+              "value": {
+                "currentYear": 78751,
+                "growth": -2.742923479721382
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "矿物燃料、润滑油及有关原料",
+        "value": {
+          "currentYear": 2041,
+          "growth": 584.8993288590603,
+          "details": [
+            {
+              "name": "煤、焦炭及煤砖",
+              "value": {
+                "currentYear": "-",
+                "growth": "-"
+              }
+            },
+            {
+              "name": "石油、石油产品及有关原料",
+              "value": {
+                "currentYear": 1959,
+                "growth": 706.1728395061727
+              }
+            },
+            {
+              "name": "天然气及人造气",
+              "value": {
+                "currentYear": 82,
+                "growth": 228
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "动植物油、脂及蜡",
+        "value": {
+          "currentYear": 300078,
+          "growth": 43.59997702997589,
+          "details": [
+            {
+              "name": "动物油、脂",
+              "value": {
+                "currentYear": 59678,
+                "growth": 11.664546066911164
+              }
+            },
+            {
+              "name": "植物油、脂",
+              "value": {
+                "currentYear": 860,
+                "growth": 440.8805031446541
+              }
+            },
+            {
+              "name": "已加工的动植物油、脂及动植物蜡",
+              "value": {
+                "currentYear": 239540,
+                "growth": 54.178869114665474
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "化学成品及有关产品",
+        "value": {
+          "currentYear": 5666499,
+          "growth": 71.51116298300234,
+          "details": [
+            {
+              "name": "有机化学品",
+              "value": {
+                "currentYear": 1568262,
+                "growth": 41.18400097948043
+              }
+            },
+            {
+              "name": "无机化学品",
+              "value": {
+                "currentYear": 2055966,
+                "growth": 232.89712725753645
+              }
+            },
+            {
+              "name": "染料、鞣料及着色料",
+              "value": {
+                "currentYear": 478634,
+                "growth": 8.098207449799787
+              }
+            },
+            {
+              "name": "医药品",
+              "value": {
+                "currentYear": 229537,
+                "growth": 28.551106929439896
+              }
+            },
+            {
+              "name": "精油、香料及盥洗、光洁制品",
+              "value": {
+                "currentYear": 46810,
+                "growth": 10.9478324761205
+              }
+            },
+            {
+              "name": "制成肥料",
+              "value": {
+                "currentYear": 393206,
+                "growth": 25.313837534299832
+              }
+            },
+            {
+              "name": "初级形状的塑料",
+              "value": {
+                "currentYear": 290504,
+                "growth": 42.27907865157534
+              }
+            },
+            {
+              "name": "非初级形状的塑料",
+              "value": {
+                "currentYear": 228595,
+                "growth": 45.860185551486076
+              }
+            },
+            {
+              "name": "其他化学原料及产品",
+              "value": {
+                "currentYear": 374985,
+                "growth": 58.03947351784653
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "按原料分类的制成品",
+        "value": {
+          "currentYear": 5077770,
+          "growth": 51.15577787726953,
+          "details": [
+            {
+              "name": "皮革、皮革制品及已鞣毛皮",
+              "value": {
+                "currentYear": 18447,
+                "growth": 17.071777622643914
+              }
+            },
+            {
+              "name": "橡胶制品",
+              "value": {
+                "currentYear": 184451,
+                "growth": 21.12860116760902
+              }
+            },
+            {
+              "name": "软木及木制品（家具除外）",
+              "value": {
+                "currentYear": 65172,
+                "growth": 46.71769473210266
+              }
+            },
+            {
+              "name": "纸及纸板; 纸浆、纸及纸板制品",
+              "value": {
+                "currentYear": 247685,
+                "growth": 53.209743665874896
+              }
+            },
+            {
+              "name": "纺纱、织物、制成品及有关产品",
+              "value": {
+                "currentYear": 886403,
+                "growth": 24.723053565724907
+              }
+            },
+            {
+              "name": "非金属矿物制品",
+              "value": {
+                "currentYear": 1059550,
+                "growth": 95.53330368330822
+              }
+            },
+            {
+              "name": "钢铁",
+              "value": {
+                "currentYear": 757272,
+                "growth": 104.67032076022443
+              }
+            },
+            {
+              "name": "有色金属",
+              "value": {
+                "currentYear": 197724,
+                "growth": 19.697070592722188
+              }
+            },
+            {
+              "name": "金属制品",
+              "value": {
+                "currentYear": 1661067,
+                "growth": 38.72049907300696
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "机械及运输设备",
+        "value": {
+          "currentYear": 41783129,
+          "growth": -3.245217584932314,
+          "details": [
+            {
+              "name": "动力机械及设备",
+              "value": {
+                "currentYear": 573960,
+                "growth": 9.564460462417145
+              }
+            },
+            {
+              "name": "特种工业专用机械",
+              "value": {
+                "currentYear": 622852,
+                "growth": 21.349540496151164
+              }
+            },
+            {
+              "name": "金工机械",
+              "value": {
+                "currentYear": 99506,
+                "growth": 23.06874118782003
+              }
+            },
+            {
+              "name": "通用工业机械设备及零件",
+              "value": {
+                "currentYear": 1293748,
+                "growth": 21.447211802387358
+              }
+            },
+            {
+              "name": "办公用机械及自动数据处理设备",
+              "value": {
+                "currentYear": 20597113,
+                "growth": -6.455430074216673
+              }
+            },
+            {
+              "name": "电信及声音的录制及重放装置设备",
+              "value": {
+                "currentYear": 4073295,
+                "growth": -16.861740658032588
+              }
+            },
+            {
+              "name": "电力机械、器具及其电气零件",
+              "value": {
+                "currentYear": 12851829,
+                "growth": 1.5127191948003826
+              }
+            },
+            {
+              "name": "陆路车辆（包括气垫式）",
+              "value": {
+                "currentYear": 1579529,
+                "growth": 23.38855706391403
+              }
+            },
+            {
+              "name": "其他运输设备",
+              "value": {
+                "currentYear": 91298,
+                "growth": -36.128445501609065
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "杂项制品",
+        "value": {
+          "currentYear": 7964647,
+          "growth": 30.74496084289833,
+          "details": [
+            {
+              "name": "活动房屋;卫生、水道、供热及照明装",
+              "value": {
+                "currentYear": 1038899,
+                "growth": 33.9695463677699
+              }
+            },
+            {
+              "name": "家具及其零件；褥垫及类似填充制品",
+              "value": {
+                "currentYear": 620133,
+                "growth": 29.56173650705438
+              }
+            },
+            {
+              "name": "旅行用品、手提包及类似品",
+              "value": {
+                "currentYear": 367403,
+                "growth": 56.31376519941116
+              }
+            },
+            {
+              "name": "服装及衣着附件",
+              "value": {
+                "currentYear": 1176459,
+                "growth": 7.8684848006953745
+              }
+            },
+            {
+              "name": "鞋靴",
+              "value": {
+                "currentYear": 883437,
+                "growth": 34.97499690612496
+              }
+            },
+            {
+              "name": "专业、科学及控制用仪器和装置",
+              "value": {
+                "currentYear": 487637,
+                "growth": -57.60905755116128
+              }
+            },
+            {
+              "name": "摄影器材、光学物品及钟表",
+              "value": {
+                "currentYear": 270000,
+                "growth": 139.97866856279444
+              }
+            },
+            {
+              "name": "杂项制品",
+              "value": {
+                "currentYear": 3120680,
+                "growth": 95.70496129398012
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "未分类的商品",
+        "value": {
+          "currentYear": 702450,
+          "growth": 153.8138012270648
+        }
+      }
+    ]
+  }
+]
